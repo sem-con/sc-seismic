@@ -1,2 +1,3 @@
 docker run -p 4000:3000 -d --name seismic semcon/sc-seismic /bin/init.sh "$(< test/init.trig)"
 curl -s http://localhost:4000/api/data?duration=1 | jq
+curl -s https://vownyourdata.zamg.ac.at:9500/api/data?duration=1 | jq
