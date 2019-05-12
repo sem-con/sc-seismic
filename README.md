@@ -22,7 +22,7 @@ This section lists examples how to use this Semantic Container.
 
 ### Visualize    
 Download and run the following Jupyter Notebook to visualize past earthquakes as provided by the Semantic Container:    
-[seismic.ipynb](https://github.com/sem-con/sc-seismic/examples)
+[seismic.ipynb](https://github.com/sem-con/sc-seismic/tree/master/example)
 
 
 ## Improve this Semantic Container    
